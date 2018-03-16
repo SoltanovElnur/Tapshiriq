@@ -1,0 +1,7 @@
+C:\Users\Elnur\Desktop\Ders\Ders\bin\Debug\Ders.exe.config
+C:\Users\Elnur\Desktop\Ders\Ders\bin\Debug\Ders.exe
+C:\Users\Elnur\Desktop\Ders\Ders\bin\Debug\Ders.pdb
+C:\Users\Elnur\Desktop\Ders\Ders\obj\Debug\Ders.csprojResolveAssemblyReference.cache
+C:\Users\Elnur\Desktop\Ders\Ders\obj\Debug\Ders.csproj.CoreCompileInputs.cache
+C:\Users\Elnur\Desktop\Ders\Ders\obj\Debug\Ders.exe
+C:\Users\Elnur\Desktop\Ders\Ders\obj\Debug\Ders.pdb
