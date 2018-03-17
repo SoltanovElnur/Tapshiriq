@@ -1,0 +1,17 @@
+            ///* Tapshiriq 7.Bankomatdan pul cekmeye gedmisem.Ekrandan cekmek istediyim pul migdarini daxil edirem.
+            //Bankomat mene mumkun olan en boyuy eskinazlari vermelidir.
+            //    meselen: 754 azn pul cekmek isteyiremse 7 eded yuzluk 1 eded 50 lik ve 4 eded birlik eskinaz vermelidir.
+            //    Bunu reallasdiracaq proqram yazin.*/
+            //int[] bankamat = {100, 50, 20, 10, 5, 1 };
+            //int mebleg, eded, i;
+            //Console.Write("Cixarmaq istediyiviz meblegi girin : ");
+            //mebleg = Convert.ToInt32(Console.ReadLine());
+            //Console.WriteLine("==========================");
+            //for (i = 0; i <= 6; i++)
+            //{
+            //    eded = mebleg / bankamat[i];
+            //    if (eded != 0)
+            //    Console.WriteLine(eded + " eded : " + (bankamat[i] + " AZN "));
+            //    mebleg %= bankamat[i];
+            //}
+            //Console.ReadLine();
